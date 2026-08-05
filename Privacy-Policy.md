@@ -1,12 +1,12 @@
 # Privacy Policy
 
 We are committed to preserving your privacy.
-In the following sections we explain how we use and protect your information obtained from using our website, services provided through it, or any other Advanced Computing and e-Science Group computing services.
+In the following sections we explain how we use and protect your information obtained from using our website and the I4C-Hub service, which is part of the Impetus4Change (I4C) Horizon Europe project and is provided by IFCA's Advanced Computing and e-Science Group.
 In addition, you will learn which rights you have with regard to the processing of your data.
 
 ## Data processing and extent of data usage
 
-When you visit our website or use any of the services offered by IFCA's Advanced Computing and e-Science group, **we collect and use personal data only when and to the extent necessary to perform the relevant service or function**.
+When you visit our website or use the I4C-Hub service offered by IFCA's Advanced Computing and e-Science Group, **we collect and use personal data only when and to the extent necessary to perform the relevant service or function**.
 The term "personal data" refers to all individual information about a specific or identifiable natural person, such as contact information or the information entered in and then submitted through (contact) forms.
 
 As far as we collect, process or use personal data, we observe the applicable statutory provisions, in particular the EU General Data Protection Regulation (GDPR), and applicable national legislation.
@@ -61,9 +61,9 @@ Anonymous information of this kind may be statistically evaluated by us in order
 
 ## Specific treatments
 
-### IFCA computing services account registration
+### I4C-Hub account registration
 
-If you request an IFCA Advanced Computing and e-Science group Single Sign On account to access or make use of our services, you give us your voluntary consent to collect and store your e-mail address for verification purposes and for the purpose sending you further instructions.
+If you request an IFCA Advanced Computing and e-Science group Single Sign On account to access or make use of the I4C-Hub service, you give us your voluntary consent to collect and store your e-mail address for verification purposes and for the purpose sending you further instructions.
 As part of the registration process, we will collect and store other personal data for the purpose of creating and managing your account.
 If you request to delete your account, this personal data will be deleted.
 The personal information that we are currently collecting is the following:
@@ -91,10 +91,10 @@ After the completion of your request, this personal data will be deleted.
 ### Links
 
 Our website contains links to other Internet sites.
-The operators of the IFCA Advanced Computing and e-Science services have no influence on the content of the linked pages.
+The operators of the IFCA Advanced Computing and e-Science group services, including I4C-Hub, have no influence on the content of the linked pages.
 These were carefully checked before the activation of the links.
-Nevertheless, it cannot be excluded that the operators of the respective pages have made changes to the content that violate applicable law or the philosophy of the IFCA Advanced Computing and e-Science group.
-The IFCA Advanced Computing and e-Science group dissociates itself from such contents.
+Nevertheless, it cannot be excluded that the operators of the respective pages have made changes to the content that violate applicable law or the philosophy of the IFCA Advanced Computing and e-Science Group.
+The IFCA Advanced Computing and e-Science Group dissociates itself from such contents.
 
 ## Encryption
 

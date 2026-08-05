@@ -1,16 +1,16 @@
 # Acceptable Use Policy
 
-This Acceptable Use Policy and Conditions of Use ("AUP") defines the rules and conditions that govern your access to and use (including transmission, processing, and storage of data) of the resources and services ("Services") as applies to all the users of the Advanced Computing and e-Science Group computing services.
+This Acceptable Use Policy and Conditions of Use ("AUP") defines the rules and conditions that govern your access to and use (including transmission, processing, and storage of data) of the resources and services ("Services") of the I4C-Hub service. The I4C-Hub is part of the Impetus4Change (I4C) Horizon Europe project and is provided and operated by the Advanced Computing and e-Science Group at IFCA.
 
 ## Glossary of terms
 
-For the purpose of this SLA, the following terms and definitions apply:
+For the purpose of this AUP, the following terms and definitions apply:
 
 - The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "SHOULD NOT", "RECOMMENDED", "MAY", and "OPTIONAL" in this document are to be interpreted as described in [RFC 2119](https://www.ietf.org/rfc/rfc2119.txt).
 
 ## Acceptable Use Policy and Conditions of Use
 
-**By registering in any of the [Advanced Computing and e-Science Group](https://confluence.ifca.es/spaces/IC/pages/65585/Advanced+Computing+and+e-Science+Group) services as a user you declare that you have read, understood and will abide by the following conditions of use:**
+**By registering in the I4C-Hub service provided by the [Advanced Computing and e-Science Group](https://confluence.ifca.es/spaces/IC/pages/65585/Advanced+Computing+and+e-Science+Group) at IFCA, you declare that you have read, understood and will abide by the following conditions of use:**
 
 1.  You shall only use the Services in a manner consistent with the purposes and limitations described above; you shall show consideration towards other users including by not causing harm to the Services; you have an obligation to collaborate in the resolution of issues arising from your use of the Services.
 
@@ -38,13 +38,13 @@ For the purpose of this SLA, the following terms and definitions apply:
 
 13. You shall provide appropriate acknowledgement of support for your use of the resources/services provided. The following acknowledgement text can be used for this purpose (e.g. in scientific publications):  
 
-    **"We acknowledge the support from the Advanced Computing and e-Science group at the Institute of Physics of Cantabria (IFCA-CSIC-UC)."**
+    **"We acknowledge the support from the I4C-Hub service operated by the Advanced Computing and e-Science Group at the Institute of Physics of Cantabria (IFCA-CSIC-UC), in the context of the Impetus4Change (I4C) project."**
 
-The administrative contact for this AUP is: [computing.support@ifca.unican.es](mailto:ai4eosc-po@listas.csic.es)
+The administrative contact for this AUP is: [computing.support@ifca.unican.es](mailto:computing.support@ifca.unican.es)
 
 The security contact for this AUP is: <computing.security@ifca.unican.es>
 
-The privacy statements (e.g. Privacy Notices) are located at: [Privacy Policy](https://confluence.ifca.es/spaces/IC/pages/17564731/Privacy+Policy)
+The privacy statements (e.g. Privacy Notices) are located at: [Privacy Policy](./Privacy-Policy.md)
 
 Applicable service level agreements are located at: [Corporate SLA](https://confluence.ifca.es/spaces/IC/pages/2949153/Corporate+Level+SLA)
 

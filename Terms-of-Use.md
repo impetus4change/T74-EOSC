@@ -1,6 +1,6 @@
 # Terms of Use
 
-Thank you for visiting the Advanced Computing services provided by the [Advanced Computing and e-Science Group](https://confluence.ifca.es/spaces/IC/pages/65585/Advanced+Computing+and+e-Science+Group) research group from the [Institute of Physics of Cantabria](https://www.ifca.es/) a joint center of the [Spanish National Research Council](http://www.csic.es/)(CSIC) and the [University of Cantabria](http://www.unican.es/)(UC), located at Avda. los Castros s/n, Santander, Spain (the "Provider"). These Terms of Use ("TOU") represent a binding legal contract between you and the Provider. The TOU mandate your access to and the use of Provider's website, together with all content, services available at or through any service linking to this TOU (the "Services").
+Thank you for visiting I4C-Hub, a service that is part of the Impetus4Change (I4C) Horizon Europe project and is provided by the [Advanced Computing and e-Science Group](https://confluence.ifca.es/spaces/IC/pages/65585/Advanced+Computing+and+e-Science+Group) research group from the [Institute of Physics of Cantabria](https://www.ifca.es/), a joint center of the [Spanish National Research Council](http://www.csic.es/) (CSIC) and the [University of Cantabria](http://www.unican.es/) (UC), located at Avda. los Castros s/n, Santander, Spain (the "Provider"). These Terms of Use ("TOU") represent a binding legal contract between you and the Provider. The TOU mandate your access to and the use of Provider's website, together with all content and services available at or through I4C-Hub and any service linking to this TOU (the "Services").
 
 **IMPORTANT:** Please read the TOU carefully before using any of the Services. Using any of the Services states that you accept and agree to be bound by the TOU.  Services must not be used unless you accept the TOU.  The Provider may change or modify the Services or the TOU at any time.  Such changes, revisions, or modifications shall be effective immediately upon being posted in relation to the Services.  Any use of the Services by you after we post changes to the TOU constitutes your acceptance of those changes.
 
@@ -12,9 +12,9 @@ The minimum age to use the Services is 16 years. Services are only offered to us
 
 You guarantee that you own any copyrights, trademarks or other intellectual property rights in any content you upload to the Services ("Content"). You are entirely responsible for the content of, and for any harm resulting from, the content made available by means of the Services. That is the case regardless of what form the content and materials take, which includes, but is not limited to video, text, photo, or other material. By making content available, you represent and warrant that your content does not violate these TOU.
 
-When you upload or submit content to our Services, you grant the [Advanced Computing and e-Science Group](https://confluence.ifca.es/spaces/IC/pages/65585/Advanced+Computing+and+e-Science+Group) (and the Provider) a worldwide and royalty-free license to use, host, store, reproduce, modify, communicate, adapt and publish the content solely for the purpose of, providing and improving our Services as well as developing new ones.
+When you upload or submit content to our Services, you grant the [Advanced Computing and e-Science Group](https://confluence.ifca.es/spaces/IC/pages/65585/Advanced+Computing+and+e-Science+Group) (and the Provider) a worldwide and royalty-free license to use, host, store, reproduce, modify, communicate, adapt and publish the content solely for the purpose of providing and improving I4C-Hub and related Services, as well as developing new ones.
 
-For more information on how we use information that falls under the definition of "personal data", please read our [Privacy Policy](http://go.egi.eu/privacy-policy).
+For more information on how we use information that falls under the definition of "personal data", please read our [Privacy Policy](./Privacy-Policy.md).
 
 We are not liable for the accuracy, completeness, appropriateness, or legality of files, user posts, or any other content that is accessible on the Provider's server and in your account. Without limiting any of those representations or warranties, the Provider has the right (though not the obligation) to, in its sole discretion (i) refuse or remove any content that, in the Provider's reasonable opinion, violates our policy or TOU or Privacy Policy or is in any way harmful or objectionable, or (ii) terminate or deny access to and use of the Services.
 
@@ -37,7 +37,7 @@ You agree that we reserve the right to monitor the use of the Services. Violatio
 
 ## 3. Violation And Abuse
 
-We want to maintain a safe environment for all users and visitors. Please notify the Provider's staff immediately of any spam, abuse, misuse, violation of use, nudity, illegal activity or compromising behaviour you may encounter. Please send an email promptly expressing your concern to <grid.support@ifca.unican.es>.
+We want to maintain a safe environment for all users and visitors. Please notify the Provider's staff immediately of any spam, abuse, misuse, violation of use, nudity, illegal activity or compromising behaviour you may encounter. Please send an email promptly expressing your concern to <computing.support@ifca.unican.es>.
 
 You agree not to provide Content that:
 
@@ -51,7 +51,7 @@ You agree not to provide Content that:
 
 ## 4. Registration
 
-In order to use some of our Services, you must register and provide certain information (such as name, email and postal addresses and institution you are part of) to the Provider. For information on how we use personal data, please read our [Privacy Policy](https://confluence.ifca.es/spaces/IC/pages/17564731/Privacy+Policy).
+In order to use some of our Services, you must register and provide certain information (such as name, email and postal addresses and institution you are part of) to the Provider. For information on how we use personal data, please read our [Privacy Policy](./Privacy-Policy.md).
 
 You agree to provide current, complete and accurate data and you agree to update your information as needed to keep your account current when using the Services. It is your responsibility to keep your registration information up to date, accurate and complete and you are responsible for any damage caused by non-compliance with these obligations.
 
